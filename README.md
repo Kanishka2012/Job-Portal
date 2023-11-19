@@ -1,33 +1,28 @@
-# Portal
+**Job Portal**
 
-You can find overview of this project on my YouTube channel. 
-https://www.youtube.com/watch?v=zcmXMIBlUUE
+This Job Portal Application is designed to facilitate seamless interaction between job seekers and recruiters. It provides functionalities for employees to apply for jobs and for recruiters to post jobs.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
+**Features**
 
-## Install project dependencies
-Run `ng serve` inside the directory of `package.json`
+**User Registration:**
+New employees and recruiters can register themselves to access the portal.
 
-## Development server
+**Employee Dashboard:**
+Upon logging in, employees can view available job postings in "Jobs" section.
+Apply for jobs and track their applied jobs in the "Applied Jobs" section.
+View their profile, including profile picture and sections for basic details, personal details, and professional details.
+Edit their profile information across all the sections.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+**Recruiter Dashboard:**
+After logging in, recruiters can post job listings.
+View their posted jobs in "Posted Jobs" section.
+Access employee profiles who have applied for jobs in "Seekers" section.
+Accept or reject job applications.
+View their own profile.
 
-## Code scaffolding
+**Technologies Used**
+Frontend: Angular
+Backend: Node.js, Express.js
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+**Contact**
+For inquiries or support, please contact me at kanishgoyal1509@gmail.com.
